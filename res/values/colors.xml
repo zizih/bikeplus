@@ -1,0 +1,9 @@
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Light" />
+
+    <color name="gyroscope_text_color">#FF0000</color>
+    <color name="speed_text_color">#222222</color>
+    <color name="speed_bg_color">#222222</color>
+
+</resources>
